@@ -14,7 +14,7 @@ saya juga menyukai bahasa pemograman python
 
 
 https://teknokrat.ac.id/ <br/>
-ahmad_fajar_rizky_firdaus@teknokrat.ac.id
+ahmad_fajar_rizky_firdaus@teknokrat.ac.id<br/>
 fajarrizky12@outlook.com
 <!---
 AhmadFajarRF/AhmadFajarRF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

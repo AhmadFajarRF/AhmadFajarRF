@@ -13,7 +13,7 @@ saya menyukai apapun yang berhubungan dengan analisis dan data
 saya juga menyukai bahasa pemograman python
 
 
-<b>https://teknokrat.ac.id/ <b\>
+https://teknokrat.ac.id/ <br/>
 ahmad_fajar_rizky_firdaus@teknokrat.ac.id
 fajarrizky12@outlook.com
 <!---

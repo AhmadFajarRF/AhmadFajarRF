@@ -12,6 +12,8 @@ angakatan 2019 sistem informasi
 saya menyukai apapun yang berhubungan dengan analisis dan data
 saya juga menyukai bahasa pemograman python
 
+
+https://teknokrat.ac.id/
 <!---
 AhmadFajarRF/AhmadFajarRF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

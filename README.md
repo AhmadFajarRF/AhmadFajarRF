@@ -13,8 +13,8 @@ tools yang sering atau pernah saya gunakan dalam mengolah data seperti Google da
 bahasa pemograman yang saya kuasai dalam rentang menengah keatas seperti Python dan SQL Query
 
 
-https://teknokrat.ac.id/ <br/>
-ahmad_fajar_rizky_firdaus@teknokrat.ac.id<br/>
+
+ahmadfajarrizkyfirdaus@gmail.com<br/>
 fajarrizky12@outlook.com
 <!---
 AhmadFajarRF/AhmadFajarRF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
